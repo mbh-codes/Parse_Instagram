@@ -11,11 +11,11 @@ Time spent: 6 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [X] User sees app icon in home screen and styled launch screen. (1pt)
 - [X] User can sign up to create a new account. (1pt)
 - [X] User can log in. (1pt)
 - [X] User can take a photo, add a caption, and post it to the server. (3pt)
-- [ ] User can view the last 20 posts. (4pts)
+- [X] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
 
@@ -26,4 +26,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mbh-codes/Parse_Instagram/blob/master/Parse_Instagram/parstagram_1.gif'/>
+<img src='https://github.com/mbh-codes/Parse_Instagram/blob/master/Parse_Instagram/parstagram_6.gif'/>
